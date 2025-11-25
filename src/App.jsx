@@ -25,7 +25,7 @@ function App() {
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
         <p>
-          Endow 2028
+          Endow 2029
         </p>
       </div>
       <p className="read-the-docs">
